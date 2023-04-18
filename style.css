@@ -1,0 +1,17 @@
+.heding{
+width:100%;
+}
+
+.mario_img
+{
+width: 100%;
+
+}
+
+.colour
+{
+background-color:deepskyblue ;
+text-align: center;
+}
+
+video { background: url('game_console.png'); background-size:cover; background-position: center; padding: 25px; }
